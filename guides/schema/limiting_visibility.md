@@ -1,5 +1,9 @@
 ---
-title: Schema — Limiting Visibility
+layout: guide
+search: true
+title: Limiting Visibility
+section: Schema
+desc: Flag types and fields so that only some clients can see them.
 ---
 
 Sometimes, you want to hide schema elements from some users. For example:

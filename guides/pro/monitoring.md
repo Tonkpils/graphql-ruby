@@ -1,5 +1,10 @@
 ---
-title: GraphQL::Pro — Instrumentation For Appsignal, New Relic, Scout and Skylight
+layout: guide
+search: true
+section: GraphQL Pro
+title: Monitoring
+desc: GraphQL plugins for NewRelic, AppSignal, Scout, Skylight and Datadog
+index: 3
 ---
 
 `GraphQL::Pro` includes instrumentation for several platforms which add:

@@ -1,5 +1,10 @@
 ---
-title: Relay — Object Identification
+layout: guide
+search: true
+title: Object Identification
+section: Relay
+desc: Working with Relay-style global IDs
+index: 0
 ---
 
 Relay uses [global object identification](https://facebook.github.io/relay/docs/graphql-object-identification.html) support some of its features:
